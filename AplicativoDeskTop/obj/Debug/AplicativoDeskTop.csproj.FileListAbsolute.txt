@@ -1,0 +1,11 @@
+C:\Users\Aluno\Documents\Visual Studio 2017\Projeto\AplicativoDeskTop\AplicativoDeskTop\bin\Debug\AplicativoDeskTop.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2017\Projeto\AplicativoDeskTop\AplicativoDeskTop\bin\Debug\AplicativoDeskTop.exe
+C:\Users\Aluno\Documents\Visual Studio 2017\Projeto\AplicativoDeskTop\AplicativoDeskTop\bin\Debug\AplicativoDeskTop.pdb
+C:\Users\Aluno\Documents\Visual Studio 2017\Projeto\AplicativoDeskTop\AplicativoDeskTop\obj\Debug\AplicativoDeskTop.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2017\Projeto\AplicativoDeskTop\AplicativoDeskTop\obj\Debug\AplicativoDeskTop.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2017\Projeto\AplicativoDeskTop\AplicativoDeskTop\obj\Debug\AplicativoDeskTop.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Visual Studio 2017\Projeto\AplicativoDeskTop\AplicativoDeskTop\obj\Debug\AplicativoDeskTop.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Visual Studio 2017\Projeto\AplicativoDeskTop\AplicativoDeskTop\obj\Debug\AplicativoDeskTop.exe
+C:\Users\Aluno\Documents\Visual Studio 2017\Projeto\AplicativoDeskTop\AplicativoDeskTop\obj\Debug\AplicativoDeskTop.pdb
+C:\Users\Aluno\Documents\Visual Studio 2017\Projeto\AplicativoDeskTop\AplicativoDeskTop\obj\Debug\AplicativoDeskTop.CadastroCliente.resources
+C:\Users\Aluno\Documents\Visual Studio 2017\Projeto\AplicativoDeskTop\AplicativoDeskTop\obj\Debug\AplicativoDeskTop.Form1.resources
